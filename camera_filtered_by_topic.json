@@ -1,6 +1,6 @@
 {
-  "Live traffic": [],
-  "Airport & planes": [
+  "live_traffic": [],
+  "airport_planes": [
     {
       "id": "MjD3gnNFYUo",
       "name": "LAX Airport Action Runways 25L & 25R",
@@ -237,7 +237,7 @@
       ]
     }
   ],
-  "Trains & railways": [
+  "trains_railways": [
     {
       "id": "wgkdREYOfw0",
       "name": "Ashland, Virginia, USA — Virtual Railfan",
@@ -340,7 +340,7 @@
       ]
     }
   ],
-  "Beaches & tropics": [
+  "beaches_tropics": [
     {
       "id": "_VqvVJfmyfs",
       "name": "Treasure Island, California(San Francisco Bay)",
@@ -1547,7 +1547,7 @@
   ],
   "Cozy ambience": [],
   "Lo-fi & study": [],
-  "Underwater & aquariums": [
+  "underwater_quariums": [
     {
       "id": "2a4c47d2-9b23-4fae-bced-c99f3679c1b5",
       "name": "Waikiki Aquarium, Hawaii",
@@ -1563,7 +1563,7 @@
     }
   ],
   "Rain & thunderstorms": [],
-  "Animal cams": [
+  "animal_cams": [
     {
       "id": "aZU3fVV4zO0",
       "name": "Hideaways Camp Kuzuma, African Watering Hole (Chobe, Botswana)",
@@ -1643,7 +1643,7 @@
       ]
     }
   ],
-  "Mountains & forests": [
+  "mountains_forests": [
     {
       "id": "Sig0Em5XTWQ",
       "name": "EarthCam Live: Allegiant Stadium (Las Vegas, NV)",
@@ -1998,7 +1998,7 @@
     }
   ],
   "Bird cams": [],
-  "City skylines": [
+  "city_skylines": [
     {
       "id": "wUQc3RoLAPs",
       "name": "Houston, Texas Skyline",
